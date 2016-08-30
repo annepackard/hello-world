@@ -1,2 +1,3 @@
 # hello-world
-First go at it
+First go at it....
+Anne here.  Roses are red, violets are blue, learning to code, woo-hoo!!
